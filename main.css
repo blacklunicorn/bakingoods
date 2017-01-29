@@ -1,0 +1,89 @@
+#heading
+{
+	font-family: Impact, Charcoal, sans-serif;
+	text-align: center;
+	margin-top: 9px;
+	border: 3px solid black;
+	padding-bottom: 7px;
+}
+#head
+{
+	text-decoration: none;
+	color: black;
+}
+#head:hover
+{
+	text-decoration: none;
+	color: #404040;
+}
+
+#subtitle
+{
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img 
+{
+    width: 70%;
+    margin: auto;
+}
+.font
+{
+	font-family: Impact;
+	text-shadow: 2px 2px #202020;
+}
+
+#textt
+{
+	margin-top: 60px;
+	text-align: center;
+}
+
+.line1
+{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	height: 3px;
+	background-color: black;
+}
+
+.line2
+{
+	margin-top: 30px;
+	margin-bottom: 25px;
+	height: 3px;
+	background-color: black;
+}
+
+.link1:hover
+{
+	-webkit-filter: grayscale(50%);
+    filter: grayscale(50%);
+}
+
+.link2
+{
+	color: #606060;
+}
+
+.link2:hover
+{
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.icon
+{
+	width: 25px;
+	height: 25px;
+	margin-right: 20px;
+	float: right;
+}
+
+.icon:hover
+{
+	width: 30px;
+	height: 30px;
+}
